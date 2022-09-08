@@ -5,9 +5,11 @@ Use the script log_reformat.py to reformat [Expedition](https://www.expeditionma
 Examples:
 
 Process one log file
+  
 `> python log_reformat.py log-2022Sep11.csv`
 
 Process a whole folder
+
 `> python log_reformat.py log*.csv`
 
 Requires Python version 3+.
